@@ -1,0 +1,25 @@
+#first-block {
+  display: flex;
+}
+header {
+    display: flex;
+    background-color: aquamarine;
+    padding: 10px;
+}
+#header-A {
+    display: flex;
+}
+header > div {
+    flex: 1;
+
+}
+#header-A > div {
+    flex: 1
+}
+#first-block {
+    display: flex
+}
+#first-block > div {
+    flex: 1;
+background-color: aquamarine;
+}
